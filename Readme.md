@@ -2,7 +2,7 @@
  Me chamo Ester🌞</h1>
 
 
-* Estudante de Análise e Desenvolvimento de Sistemas na UNA  🖥️👾*
+* *Estudante de Análise e Desenvolvimento de Sistemas na UNA  🖥️👾*
 * *Foco em Análise de Requisitos e UX/UI Design 🖌️🎨*
 * *Espaço para práticas, projetos acadêmicos e estudos de código 🧪*
 * 📩*E-mail: Esteralice011@gmail.com.*
